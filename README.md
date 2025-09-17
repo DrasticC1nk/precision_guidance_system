@@ -1,0 +1,1 @@
+Simply clone it and open the Visual Studio solution. Everything is already setup. Build and run. Select the patch and hit enter. Don't be alarmed by all the warnings during runtime. It's just trying to look for some parallel libraries that I did not include. The porgram should run normally.
